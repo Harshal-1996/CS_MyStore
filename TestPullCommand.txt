@@ -1,1 +1,3 @@
 this is my new git file to check pull command
+
+i got a placement where are you
